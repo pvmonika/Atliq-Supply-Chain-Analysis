@@ -24,7 +24,10 @@ Connected and import data in Snowflake database and work on raw data, executed S
        - Filter the required attribute in all the tables and formating the data types of the columns
        - Building relationship between tables using Data Modeling and connecting the primary key with attributes.
 
+### Creating Report in PowerBI
+   Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
 
+Screenshot 2025-09-13 223616.png
 
 ## Overview of key sales metrics:
 - 18 Product been distributed among 35 customer in 3 cities
