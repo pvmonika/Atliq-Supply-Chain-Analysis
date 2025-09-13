@@ -28,12 +28,13 @@ Connected and import data in Snowflake database and work on raw data, executed S
 
 ## Overview of key sales metrics:
 - 18 Product been distributed among 35 customer in 3 cities
-**Order Delays**: 27% not delivered on time
-**Quantity Shortfalls**: 23% of ordered items undelivered
-**Delivery Failures**: 1.7% of deliveries unsuccessful*
-An average of 36% of orders fail to meet fulfillment expectations due to a combination of delivery delays and mismatched quantities.
-**Delays Rate** 1.68 Days are affected delays delivery and 13k orders are delayed over 31k orders
-**Product Delay Rate**- 66.3% of dairy product deliveries are delayed, with a maximum delay of up to 3 days
+- **Order Delays**: 27% not delivered on time
+- **Quantity Shortfalls**: 23% of ordered items undelivered
+- **Delivery Failures**: 1.7% of deliveries unsuccessful*
+- An average of 36% of orders fail to meet fulfillment expectations due to a combination of delivery delays and mismatched quantities.
+- **Delays Rate** 1.68 Days are affected delays delivery and 13k orders are delayed over 31k orders
+- **Product Delay Rate**- 66.3% of dairy product deliveries are delayed, with a maximum delay of up to 3 days
+
 ### Live Dashboard
 
 ## Tools, Softwares, and Libraries
