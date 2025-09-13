@@ -27,7 +27,9 @@ Connected and import data in Snowflake database and work on raw data, executed S
 ### Creating Report in PowerBI
    Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
 
-Screenshot 2025-09-13 223616.png
+https://github.com/pvmonika/Atliq-Supply-Chain-Analysis/blob/642f2c5c838d11c0c969d76637305a8e1a4efffa/Screenshot%202025-09-13%20223616.png
+
+
 
 ## Overview of key sales metrics:
 - 18 Product been distributed among 35 customer in 3 cities
