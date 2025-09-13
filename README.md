@@ -27,6 +27,9 @@ Connected and import data in Snowflake database and work on raw data, executed S
 ### Creating Report in PowerBI
    Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
    ### Live Dashboard
+- **Data Modeling**
+
+<img width="1191" height="735" alt="Screenshot 2025-09-13 230414" src="https://github.com/user-attachments/assets/8fe71b08-874f-441f-986a-4426746c7518" />
 
 - **Demagraphic Metric**
 
@@ -41,7 +44,7 @@ Connected and import data in Snowflake database and work on raw data, executed S
 <img width="1297" height="715" alt="Screenshot 2025-09-13 223750" src="https://github.com/user-attachments/assets/cb8303ae-d5c6-4287-ba0b-39dd2ba66f11" />
 
  ## Overview of key
- sales metrics:
+- sales metrics:
 - 18 Product been distributed among 35 customer in 3 cities
 - **Order Delays**: 27% not delivered on time
 - **Quantity Shortfalls**: 23% of ordered items undelivered
