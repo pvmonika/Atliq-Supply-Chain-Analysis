@@ -26,13 +26,21 @@ Connected and import data in Snowflake database and work on raw data, executed S
 
 ### Creating Report in PowerBI
    Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
-![Screenshot 2024-09-06 171313](https://github.com/user-attachments/assets/392ea34c-da9e-4cdc-9f2a-aef71712bfb1)
+   
+- **Demagraphic Metric**
 
-![Screenshot%202025-09-13%20223616.png](https://github.com/pvmonika/Atliq-Supply-Chain-Analysis/assets/642f2c5c838d11c0c969d76637305a8e1a4efffa).
+<img width="1300" height="723" alt="Screenshot 2025-09-13 223616" src="https://github.com/user-attachments/assets/3a1448ed-2cf2-4fc7-a7ea-030e05d514a8" />
 
+- **Product Insights**
 
+<img width="1299" height="703" alt="Screenshot 2025-09-13 223658" src="https://github.com/user-attachments/assets/879d9afc-ca46-469c-af70-76bfdc3e04b3" />
 
-## Overview of key sales metrics:
+- **Delay Ratio**
+
+<img width="1297" height="715" alt="Screenshot 2025-09-13 223750" src="https://github.com/user-attachments/assets/cb8303ae-d5c6-4287-ba0b-39dd2ba66f11" />
+
+ ## Overview of key
+ sales metrics:
 - 18 Product been distributed among 35 customer in 3 cities
 - **Order Delays**: 27% not delivered on time
 - **Quantity Shortfalls**: 23% of ordered items undelivered
