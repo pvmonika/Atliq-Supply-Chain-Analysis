@@ -26,7 +26,8 @@ Connected and import data in Snowflake database and work on raw data, executed S
 
 ### Creating Report in PowerBI
    Visualizaing the data with different charts to analysis the pattern and trends in markets and working on DAX measures will provide more details insights to the stakeholders.
-   
+   ### Live Dashboard
+
 - **Demagraphic Metric**
 
 <img width="1300" height="723" alt="Screenshot 2025-09-13 223616" src="https://github.com/user-attachments/assets/3a1448ed-2cf2-4fc7-a7ea-030e05d514a8" />
@@ -49,7 +50,6 @@ Connected and import data in Snowflake database and work on raw data, executed S
 - **Delays Rate** 1.68 Days are affected delays delivery and 13k orders are delayed over 31k orders
 - **Product Delay Rate**- 66.3% of dairy product deliveries are delayed, with a maximum delay of up to 3 days
 
-### Live Dashboard
 
 ## Tools, Softwares, and Libraries
 - Snowflake
